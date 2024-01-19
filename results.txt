@@ -1,0 +1,45 @@
++-------------+
+| STATUS      |
++-------------+
+| Rooms Cleared: 0
++-------------+
+| # of turns  |45
++-------------+
+| Amount of   |
+| monsters    |2
+| defeated    |
++-------------+
+| # of spaces |
+| explored    |4
++-------------+
+| INVENTORY   |
++-------------+
+| Gold        | 71
+| Treasures   | R: 0 | N: 0 | B: 0 | C: 0 | G: 0
++-------------+
+| Leader       |John
++-------------+
+| PARTY IN     |
+| ORDER OF     |
+| HEALTH, MOST |
+| TO LEAST     |
+| Las | Fullness: 45
+| Gad | Fullness: 44
+| Garret | Fullness: 40
+| YAz | Fullness: 37
+| John | Fullness: 33
+Total amount of ingredients bought: 30
+Total amount of armor bought: 5
+Total amount of pots bought: 1
+Total amount of pans bought: 1
+Total amount of cauldrons bought: 0
+Total amount of clubs bought: 1
+Total amount of spears bought: 0
+Total amount of rapiers bought: 0
+Total amount of axes bought: 0
+Total amount of longswords bought: 0
+Total amount of rings sold: 0
+Total amount of necklaces sold: 0
+Total amount of bracelets sold: 0
+Total amount of circlets sold: 0
+Total amount of goblets sold: 0
